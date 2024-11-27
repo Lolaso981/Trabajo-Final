@@ -30,3 +30,8 @@ Para ejecutar el programa, necesitas:
 Puedes verificar si `tkinter` está disponible ejecutando:
 ```bash
 python -m tkinter
+
+## Authors
+
+👤 **Miguelangel Restrepo Grisales**
+
