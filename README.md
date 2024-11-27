@@ -4,6 +4,19 @@ Este proyecto es un simulador de ventas con inventario implementado en Python ut
 
 ---
 
+## Built With
+
+- Python
+- Tkinter
+
+---
+
+## Authors
+
+👤 **Miguelangel Restrepo Grisales**
+
+---
+
 ## Características principales
 1. **Gestión del Inventario**:  
    - Agregar productos con nombre, precio y cantidad.
@@ -31,7 +44,4 @@ Puedes verificar si `tkinter` está disponible ejecutando:
 ```bash
 python -m tkinter
 
-## Authors
-
-👤 **Miguelangel Restrepo Grisales**
 
